@@ -1,9 +1,9 @@
 class Jumon < Formula
   desc "Incantations for your shell: say it, get the command, you run it"
   homepage "https://github.com/saru-id/jumon"
-  version "1.3.0"
-  url "https://github.com/saru-id/jumon/releases/download/v1.3.0/jumon-v1.3.0-aarch64-apple-darwin.tar.gz"
-  sha256 "c0e53f62259758194d9dd60423a2b7a60b5cd52e5894f991a3e3cc8ea7a64de1"
+  version "1.4.0"
+  url "https://github.com/saru-id/jumon/releases/download/v1.4.0/jumon-v1.4.0-aarch64-apple-darwin.tar.gz"
+  sha256 "dcb1b7f6dd0e352e0f54eb376099ec7e43bb4e8dc7ba05b717002a1f913197f6"
 
   depends_on arch: :arm64
   depends_on :macos
